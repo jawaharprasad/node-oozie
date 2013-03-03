@@ -2,6 +2,8 @@
 
 <a href="http://oozie.apache.org/" target="_blank">Oozie</a> is a workflow scheduler system to manage Apache Hadoop jobs.
 
+The node-sqoop module facilitates the Sqoop2 rest api integration.
+
 ## Installation
 ```
 npm install node-oozie
