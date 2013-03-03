@@ -1,8 +1,8 @@
-# A NodeJS Client for Oozie Webservice API
+# A NodeJS Client for Oozie web-services API
 
 <a href="http://oozie.apache.org/" target="_blank">Oozie</a> is a workflow scheduler system to manage Apache Hadoop jobs.
 
-The node-oozie module facilitates the Sqoop2 rest api integration.
+The node-oozie module facilitates the Oozie web-services api integration.
 
 ## Installation
 ```
