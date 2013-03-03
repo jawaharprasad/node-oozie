@@ -1,12 +1,6 @@
+# A NodeJS Client for Oozie Webservice API
 
-# A NodeJS Client for Sqoop2 REST API
-
-<a href="http://sqoop.apache.org/" target="_blank">Apache Sqoop</a> (TM) is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.
-
-Sqoop successfully graduated from the Incubator in March of 2012 and is now a Top-Level Apache project: More information
-
-Latest stable release is 1.4.2. Latest cut of Sqoop2 is 1.99.1. 
-
+<a href="http://oozie.apache.org/" target="_blank">Oozie</a> is a workflow scheduler system to manage Apache Hadoop jobs.
 
 ## Installation
 ```
@@ -18,7 +12,7 @@ npm install node-oozie
 ```
  var config = {
         "protocol": "[PROTOCOL]",
-		"url": "[HOST]",
+	"url": "[HOST]",
         "port": "[PORT]",
         "version": "[OOZIE VERSION]"
     };
