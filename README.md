@@ -37,10 +37,7 @@ oozie.post(url, data, function(error, response){ ... });
 ```
 oozie.put(url, data, function(error, response){ ... });
 ```
-<b>DELETE</b>
-```
-oozie.del(url, function(error, response){ ... });
-```
+
 
 ## Example
 
