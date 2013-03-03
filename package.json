@@ -1,0 +1,25 @@
+{
+    "name": "node-oozie",
+    "version": "0.0.1",
+    "description": "Node.js module used as a client to send rest requests to oozie server",
+    "preferGlobal": "true",
+    "main": "index.js",
+    "bin": { "node-oozie": "index.js" },
+    "author": {
+		"name": "Alex Tanti",
+		"email": "alex.tanti@minely.com"
+	},
+	"contributor": {
+      "name": "Mauro Pirrone",
+      "email": "mauro.pirrone@minely.com"
+    },
+    "keywords": ["oozie", "hadoop", "big data", "mapreduce", "schedule", "workflow", "coordinator", "bundle"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/minely/node-oozie.git"
+    },
+    "dependencies": {
+        "request": "2.9.152"
+    },
+    "engines": { "node": "*" }
+}
