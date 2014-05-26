@@ -1,6 +1,6 @@
 {
     "name": "node-oozie",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Node.js module used as a client to send rest requests to oozie server",
     "preferGlobal": "true",
     "main": "index.js",
